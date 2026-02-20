@@ -1,3 +1,2 @@
-from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_openai import OpenAIEmbeddings
 embedding_model=OpenAIEmbeddings()
