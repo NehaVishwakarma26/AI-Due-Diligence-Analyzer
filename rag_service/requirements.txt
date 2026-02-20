@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 fastapi
 uvicorn
 langchain
@@ -7,3 +9,4 @@ chromadb
 sentence-transformers
 openai
 python-dotenv
+torch==2.2.2+cpu
